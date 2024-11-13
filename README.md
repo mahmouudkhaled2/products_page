@@ -5,7 +5,7 @@ This project is a simple e-commerce product listing page that fetches product da
 
 
 ### Live Demo: 
-Check out the live version of the project [here](https://fakestoreapi.com/).
+Check out the live version of the project [here](https://products-page-eosin.vercel.app/).
 
 ### Features:
 - #### Product Listing:
