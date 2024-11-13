@@ -1,8 +1,8 @@
 import { useContext } from "react";
-import ProductItem from "./../Components/productItem";
 import { ProductsContext } from "../Contexts/ProuductsContext";
 import Loading from "./../Components/Loading";
 import FetchError from "./../Components/FetchError";
+import ProductItem from "../Components/productItem";
 
 export default function AllProducts() {
   const { allPro, loading, isError } = useContext(ProductsContext);
